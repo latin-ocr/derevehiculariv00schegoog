@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./derevehiculariv00schegoog_0001.png"; bbox 0 0 3635 4716; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 486 3635 3220">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 486 3635 3220">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 486 3635 3220; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 0 486 3635 3220; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 786 3430 2889 3959">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 786 3430 2889 3959">
+     <span class='ocr_line' id='line_1_2' title="bbox 861 3430 2793 3641; baseline 0 -4"><span class='ocrx_word' id='word_1_2' title='bbox 861 3446 1196 3641; x_wconf 75' lang='lat' dir='ltr'>De</span> <span class='ocrx_word' id='word_1_3' title='bbox 1265 3502 1510 3641; x_wconf 70' lang='grc' dir='ltr'>ΓΘ</span> <span class='ocrx_word' id='word_1_4' title='bbox 1592 3430 2793 3641; x_wconf 72' lang='lat' dir='ltr'>vehiculari</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 786 3744 2889 3959; baseline 0.001 -6"><span class='ocrx_word' id='word_1_5' title='bbox 786 3778 1776 3955; x_wconf 73' lang='lat' dir='ltr'>Veterum</span> <span class='ocrx_word' id='word_1_6' title='bbox 1854 3744 2369 3959; x_wconf 73' lang='lat' dir='ltr'><em>libri</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 2441 3744 2592 3955; x_wconf 76' lang='lat' dir='ltr'>d</span> <span class='ocrx_word' id='word_1_8' title='bbox 2607 3816 2889 3955; x_wconf 82' lang='lat' dir='ltr'>uo</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 445 4172 3187 4515">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 445 4172 3187 4515">
+     <span class='ocr_line' id='line_1_4' title="bbox 885 4172 2749 4306; baseline 0.001 -15"><span class='ocrx_word' id='word_1_9' title='bbox 885 4172 1598 4293; x_wconf 48' lang='lat' dir='ltr'>johann&amp;</span> <span class='ocrx_word' id='word_1_10' title='bbox 1675 4172 2337 4306; x_wconf 54' lang='lat' dir='ltr'>Schaeffaen</span> <span class='ocrx_word' id='word_1_11' title='bbox 2426 4172 2749 4293; x_wconf 55' lang='lat' dir='ltr'>pirro</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 445 4376 3187 4515; baseline 0 -22"><span class='ocrx_word' id='word_1_12' title='bbox 445 4376 980 4515; x_wconf 61' lang='lat' dir='ltr'>Liqorm,</span> <span class='ocrx_word' id='word_1_13' title='bbox 1063 4376 1694 4497; x_wconf 63' lang='lat' dir='ltr'>Clamims</span> <span class='ocrx_word' id='word_1_14' title='bbox 1765 4376 2457 4497; x_wconf 58' lang='lat' dir='ltr'>Arrhenms</span> <span class='ocrx_word' id='word_1_15' title='bbox 2534 4376 3187 4497; x_wconf 60' lang='lat' dir='ltr'>Ornhiaelm</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
